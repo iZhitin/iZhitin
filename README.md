@@ -1,5 +1,11 @@
 ### Welcome to my Repository! I'm beginner QA Automation Engineer
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
+<!--
+сайт со стилями 
+https://shields.io/
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+-->
 
 <!--
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/1048181.png)
@@ -14,9 +20,14 @@ Beginner specialist
 
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/d-Flutter-blue?style=for-the-badge&logo=javascript&logoColor=green)
+![Python](https://img.shields.io/badge/-Pyhton-green?style=flat&logo=Python&logoColor)
+![Pytest](https://img.shields.io/badge/-Pytest-grey?style=flat&logo=Pytest&logoColor)
+![Selenium](https://img.shields.io/badge/-Selenium-purple?style=flat&logo=Selenium&logoColor)
+![MySQL](https://img.shields.io/badge/-MySQL-gold?style=flat&logo=MySQL&logoColor)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 
-
+MySQL
 ### Portfolio
 #### Manual testing:
 [Тестирование сайта Дом Питомца](https://docs.google.com/spreadsheets/d/1g01eyX-Cab8xF5ABvMsQ4OSq-jUN075iDaidzJAGEXI/edit#gid=1917353105)
@@ -42,12 +53,12 @@ Beginner specialist
 [Автоматизированное тестирование UI сайта PetFriends с применение POM](https://github.com/iZhitin/TestingPetFriendsSeleniumPOM)
 
 ### Contact me
-[![Phone](https://img.shields.io/badge/-phone-white?style=for-the-badge&logo=GitHubSponsors&logoColor=purple)](tel:89005131811)
-<br>
-[![VK](https://img.shields.io/badge/-white?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
-[![Gmail](https://img.shields.io/badge/--white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:IvanZhitin1997@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
 [![Telegram](https://img.shields.io/badge/--white?style=for-the-badge&logo=Telegram)](https://t.me/unknovvn_wan)
+[![Gmail](https://img.shields.io/badge/--white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:IvanZhitin1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/--white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/ivan-zhitin-99226b237/)
+[![VK](https://img.shields.io/badge/--white?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
+
 
 
 
@@ -55,10 +66,12 @@ Beginner specialist
 
 <!--
 [![VK](https://img.shields.io/badge/f-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
+[![Phone](https://img.shields.io/badge/-phone-white?style=for-the-badge&logo=GitHubSponsors&logoColor=purple)](<a href="tel:89005131811">89005131811</a>)
 -->
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iZhitin)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
