@@ -69,6 +69,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 -->
 
 <!--
+Для добавления статов:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iZhitin)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
