@@ -1,4 +1,4 @@
-### Welcome to my Repository! I'm beginner QA Automation Engineer
+### Hello, my name's Ivan. Welcome to my repository! I'm beginner QA Automation Engineer
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
 <!--
 сайт со стилями 
@@ -16,8 +16,7 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 -->
 
 ### About me
-Beginner specialist
-
+I graduated from the St. Petersburg Mining University this year as the best Graduate of the Faculty. And now I'm studying on the QA Automation on Python course. I'm eager to become a really skilled professional in the field of Quality Assurance
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Pyhton-green?style=flat&logo=Python&logoColor)
@@ -27,7 +26,7 @@ Beginner specialist
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 
-MySQL
+
 ### Portfolio
 #### Manual testing:
 [Тестирование сайта Дом Питомца](https://docs.google.com/spreadsheets/d/1g01eyX-Cab8xF5ABvMsQ4OSq-jUN075iDaidzJAGEXI/edit#gid=1917353105)
