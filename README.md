@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/IMG_1263.JPG)
+![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
 
 ## I'm biginner QA Automation
 
