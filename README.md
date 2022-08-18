@@ -1,5 +1,8 @@
 ### I'm biginner QA Automation
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
+![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
+![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
+![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
 
 I'm biginner QA Automation
 
