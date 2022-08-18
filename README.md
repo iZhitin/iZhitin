@@ -19,7 +19,7 @@ Beginner specialist
 
 ### Portfolio
 #### Manual testing:
-![Тестирование раздела платформы Puzzle English](https://disk.yandex.ru/d/JDb_Sy2PfnSiVg)
+[Тестирование раздела платформы Puzzle English](https://disk.yandex.ru/d/JDb_Sy2PfnSiVg)
 
 
 ### Contact Me
