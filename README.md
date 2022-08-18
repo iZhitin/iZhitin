@@ -5,11 +5,13 @@
 
 About me
 
-Languages and Tools
-
-Portfolio
-
-Contact Me
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/d-Flutter-blue?style=for-the-badge&logo=javascript&logoColor=green)
+### Portfolio
+# тут можно использовать html теги
+# язык для оформления называется - markdown
+### Contact Me
+[![VK](https://img.shields.io/badge/f-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
 <!--
 **iZhitin/iZhitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iZhitin)](https://github.com/anuraghazra/github-readme-stats)
