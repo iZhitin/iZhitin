@@ -1,4 +1,4 @@
-### Hello, my name's Ivan. Welcome to my repository! I'm beginner QA Automation Engineer
+### Hello, my name's Ivan. Welcome to my repository! I'm a beginner QA Automation Engineer
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
 <!--
 сайт со стилями 
