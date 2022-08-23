@@ -49,7 +49,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 <br>
 [Автоматизированное тестирование UI сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsSelenium)
 <br>
-[Автоматизированное тестирование UI сайта PetFriends с применение POM](https://github.com/iZhitin/TestingPetFriendsSeleniumPOM)
+[Автоматизированное тестирование UI сайта PetFriends с применением POM](https://github.com/iZhitin/TestingPetFriendsSeleniumPOM)
 
 ### Contact me
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
