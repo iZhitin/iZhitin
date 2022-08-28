@@ -27,6 +27,20 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 
 
+#### Autotesting:
+[Автоматизированное тестирование API сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsAPI)
+<br>
+[Автоматизированное тестирование UI сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsSelenium)
+<br>
+[Автоматизированное тестирование UI сайта PetFriends с применением POM](https://github.com/iZhitin/TestingPetFriendsSeleniumPOM)
+
+#### Programming:
+[Телеграм-бот для конвертации валют](https://github.com/iZhitin/Python/tree/master/currency_bot)
+<br>
+[Калькулятор суммы 4-значных чисел](https://github.com/iZhitin/Python/blob/master/amount_of_four_digit_numbers.py)
+<br>
+[Определитель индекса элемента числового списка](https://github.com/iZhitin/Python/blob/master/index_in_sequence_of_numbers.py)
+
 ### Portfolio
 #### Manual testing:
 [Тестирование сайта Дом Питомца](https://docs.google.com/spreadsheets/d/1g01eyX-Cab8xF5ABvMsQ4OSq-jUN075iDaidzJAGEXI/edit#gid=1917353105)
@@ -37,19 +51,6 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 <br>
 [Тестирование сайта Loom: Async Video Messaging for Work](https://disk.yandex.ru/i/1UN0H8ZrmDXf-w)
 
-#### Programming:
-[Телеграм-бот для конвертации валют](https://github.com/iZhitin/Python/tree/master/currency_bot)
-<br>
-[Калькулятор суммы 4-значных чисел](https://github.com/iZhitin/Python/blob/master/amount_of_four_digit_numbers.py)
-<br>
-[Определитель индекса элемента числового списка](https://github.com/iZhitin/Python/blob/master/index_in_sequence_of_numbers.py)
-
-#### Autotesting:
-[Автоматизированное тестирование API сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsAPI)
-<br>
-[Автоматизированное тестирование UI сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsSelenium)
-<br>
-[Автоматизированное тестирование UI сайта PetFriends с применением POM](https://github.com/iZhitin/TestingPetFriendsSeleniumPOM)
 
 ### Contact me
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
