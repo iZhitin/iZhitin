@@ -26,7 +26,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 
-
+### Portfolio
 #### Autotesting:
 [Автоматизированное тестирование API сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsAPI)
 <br>
@@ -41,7 +41,6 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 <br>
 [Определитель индекса элемента числового списка](https://github.com/iZhitin/Python/blob/master/index_in_sequence_of_numbers.py)
 
-### Portfolio
 #### Manual testing:
 [Тестирование сайта Дом Питомца](https://docs.google.com/spreadsheets/d/1g01eyX-Cab8xF5ABvMsQ4OSq-jUN075iDaidzJAGEXI/edit#gid=1917353105)
 <br>
