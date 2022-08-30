@@ -30,7 +30,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 
 ### Portfolio
 #### Autotesting:
-[Автоматизированное тестирование UI сайта сети магазинов "Лента"](https://github.com/iZhitin/TestingPetFriendsAPI)
+[Автоматизированное тестирование UI сайта сети магазинов "Лента"](https://github.com/iZhitin/Lenta_autotesting)
 <br>
 [Автоматизированное тестирование API сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsAPI)
 <br>
