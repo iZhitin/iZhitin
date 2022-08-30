@@ -1,5 +1,7 @@
 ### Hello, my name's Ivan. Welcome to my repository! I'm a beginner QA Automation Engineer
+
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
+
 <!--
 сайт со стилями 
 https://shields.io/
@@ -28,6 +30,8 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 
 ### Portfolio
 #### Autotesting:
+[Автоматизированное тестирование UI сайта сети магазинов "Лента"](https://github.com/iZhitin/TestingPetFriendsAPI)
+<br>
 [Автоматизированное тестирование API сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsAPI)
 <br>
 [Автоматизированное тестирование UI сайта PetFriends](https://github.com/iZhitin/TestingPetFriendsSelenium)
