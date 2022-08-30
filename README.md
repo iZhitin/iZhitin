@@ -59,7 +59,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
 [![Telegram](https://img.shields.io/badge/--white?style=for-the-badge&logo=Telegram)](https://t.me/unknovvn_wan)
 [![Gmail](https://img.shields.io/badge/--white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:IvanZhitin1997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/--white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](www.linkedin.com/in/iZhitin)
+[![LinkedIn](https://img.shields.io/badge/--white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://linkedin.com/in/iZhitin)
 [![VK](https://img.shields.io/badge/--white?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
 
 
