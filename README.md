@@ -28,6 +28,7 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 
+### [CV is here](https://disk.yandex.ru/i/-559vLCEe0jRbQ)
 ### Portfolio
 #### Autotesting:
 [Автоматизированное тестирование UI сайта сети магазинов "Лента"](https://github.com/iZhitin/Lenta_autotesting)
