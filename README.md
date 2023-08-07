@@ -24,7 +24,7 @@ I graduated from the St. Petersburg Mining University in 2022 as the best Gradua
 ![Python](https://img.shields.io/badge/-Pyhton-green?style=flat&logo=Python&logoColor)
 ![Pytest](https://img.shields.io/badge/-Pytest-grey?style=flat&logo=Pytest&logoColor)
 ![Selenium](https://img.shields.io/badge/-Selenium-purple?style=flat&logo=Selenium&logoColor)
-![MySQL](https://img.shields.io/badge/-Locust-gold?style=flat&logo=MySQL&logoColor)
+![MySQL](https://img.shields.io/badge/-Locust-black?style=flat&logo=Locust&logoColor)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
 <!--
