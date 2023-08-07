@@ -1,4 +1,4 @@
-### Hello, my name's Ivan. Welcome to my repository! I'm a beginner QA Automation Engineer
+### Hello, my name's Ivan. Welcome to my repository! I'm a QA Automation Engineer
 
 ![Header](https://github.com/iZhitin/iZhitin/blob/master/Assets/linija-png.png)
 
@@ -18,7 +18,7 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 -->
 
 ### About me
-I graduated from the St. Petersburg Mining University this year as the best Graduate of the Faculty. And now I'm studying on the QA Automation on Python course. I'm eager to become a really skilled professional in the field of Quality Assurance
+I graduated from the St. Petersburg Mining University in 2022 as the best Graduate of the Faculty. And two months later, I finished studying on SkillFactory course early having gotten a profession of QA Automation with Python. I was lucky to get a job in product company which I'm working now in. For almost one year of working, I've gained a valuable experience in manual functional testing, localization testing, mobile and web testing and even performance testing using JMeter and Locust. Now I'm getting into E2E testing and already have written my own testing framework based on PageObject and developed basic CRUD autotests for a website in CRM-system
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Pyhton-green?style=flat&logo=Python&logoColor)
@@ -27,8 +27,9 @@ I graduated from the St. Petersburg Mining University this year as the best Grad
 ![MySQL](https://img.shields.io/badge/-MySQL-gold?style=flat&logo=MySQL&logoColor)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)
-
+<!--
 ### [CV is here](https://disk.yandex.ru/i/-559vLCEe0jRbQ)
+-->
 ### Portfolio
 #### Autotesting:
 [Автоматизированное тестирование UI сайта сети магазинов "Лента"](https://github.com/iZhitin/Lenta_autotesting)
