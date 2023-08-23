@@ -59,8 +59,7 @@ I graduated from the St. Petersburg Mining University in 2022 as the best Gradua
 #### Activity:
 ![Codewars](https://github.r2v.ch/codewars?user=iZhitin&stroke=%23BB432C)
 ![](https://leetcard.jacoblin.cool/iZhitin?theme=unicorn)
-
-
+<br>
 
 ### Contact me
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
