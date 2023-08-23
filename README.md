@@ -65,7 +65,12 @@ I graduated from the St. Petersburg Mining University in 2022 as the best Gradua
 [![VK](https://img.shields.io/badge/--white?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
 
 
+![Codewars](https://github.r2v.ch/codewars?user=iZhitin&stroke=%23BB432C)
+![](https://leetcard.jacoblin.cool/iZhitin?theme=unicorn)
 
+
+<!--
+**iZhitin/iZhitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
