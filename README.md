@@ -56,6 +56,13 @@ I graduated from the St. Petersburg Mining University in 2022 as the best Gradua
 <br>
 [Тестирование сайта Loom: Async Video Messaging for Work](https://disk.yandex.ru/i/1UN0H8ZrmDXf-w)
 
+#### Activity:
+
+![Codewars](https://github.r2v.ch/codewars?user=iZhitin&stroke=%23BB432C)
+![](https://leetcard.jacoblin.cool/iZhitin?theme=unicorn)
+
+<!--
+**iZhitin/iZhitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Contact me
 [![WhatsApp](https://img.shields.io/badge/--white?style=for-the-badge&logo=WhatsApp)](https://wa.me/79005131811)
@@ -64,13 +71,6 @@ I graduated from the St. Petersburg Mining University in 2022 as the best Gradua
 [![LinkedIn](https://img.shields.io/badge/--white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://linkedin.com/in/iZhitin)
 [![VK](https://img.shields.io/badge/--white?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/ivanzhitin)
 
-
-![Codewars](https://github.r2v.ch/codewars?user=iZhitin&stroke=%23BB432C)
-![](https://leetcard.jacoblin.cool/iZhitin?theme=unicorn)
-
-
-<!--
-**iZhitin/iZhitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
